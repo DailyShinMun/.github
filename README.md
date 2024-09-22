@@ -1,1 +1,1 @@
-# .github
+# Daily ShinMun의 팀프로젝트 공간입니다.
