@@ -3,9 +3,11 @@
 </header>
 <body>
 
+
 ## Members ##
-:shipit: <strong>Seung Won Shin</strong> <br> 
-:shipit: <strong>Ye Rim Mun</strong>
+:shipit: <strong>Seung Won Shin</strong> | FrontEnd, BackEnd 
+<br> 
+:shipit: <strong>Ye Rim Mun</strong> | Web Design
 
 <br>
  
