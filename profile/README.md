@@ -2,8 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFAAAF,100:C8D7FF&height=150&section=header&text=자두자두졸려&animation=fadeIn&fontSize=50&fontColor=282828" />
 </header>
 <body>
-  
+
+## Members ##
+<strong>Seung Won Shin</strong> <br> 
+<strong>Ye Rim Mun</strong>
+
+<br>
+ 
 ## Skills ##
+
+<div>
 
 ### FrontEnd ###
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
